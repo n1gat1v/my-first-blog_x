@@ -27,6 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'n1gat1v.pythonanywhere.com',
+    '127.0.0.1'
+    'localhost'
 ]
 
 
